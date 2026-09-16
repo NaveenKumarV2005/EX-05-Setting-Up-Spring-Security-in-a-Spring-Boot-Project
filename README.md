@@ -1,6 +1,3 @@
-# Name: MADESWARAN M
-# Reg no: 212223040106
-
 # EXP05-Setting-Up-Spring-Security-in-a-Spring-Boot-Project
 ## AIM:
 To write a program for setting up Spring Security in a Spring Boot project to secure endpoints with basic authentication and role-based access control.
